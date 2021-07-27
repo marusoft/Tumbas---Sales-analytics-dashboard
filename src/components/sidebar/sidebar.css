@@ -1,7 +1,7 @@
 .sidebar {
   flex: 1;
   height: 100vh;
-  background-color: #fbfbff;
+  background-color: #ffffff;
 }
 .sidebar-head {
   padding: 0.9rem;
@@ -11,7 +11,7 @@
 .logo {
   width: 40px;
   height: 40px;
-  background-color: blue;
+  background-color: rgb(32, 32, 209);
   color: #ffffff;
   border-radius: 50%;
   display: flex;
@@ -21,7 +21,7 @@
 }
 .logo-title {
   margin-left: 1rem;
-  color: blue;
+  color: rgb(32, 32, 209);
   font-size: 1.2rem;
   font-weight: 600;
 }
@@ -35,13 +35,13 @@
 .sidebar-title {
   font-size: 1rem;
   margin-bottom: 0.9rem;
-  color: #524d52;
+  color: #25234F;
 }
 .sidebar-list {
   list-style-type: none;
 }
 .sidebar-list-item {
-  color: #c4bcbc;
+  color: #847C94;
   margin-bottom: 1.2rem;
   cursor: pointer;
   display: flex;
@@ -49,8 +49,8 @@
 }
 .sidebar-list-item.active,
 .sidebar-list-item:hover {
-  color: blue;
-  border-right: 4px solid blue;
+  color: rgb(32, 32, 209);
+  border-right: 4px solid rgb(32, 32, 209);
 }
 .sidebar-icons {
   margin-right: 0.7rem;

@@ -2,7 +2,8 @@
   display: flex;
   /* margin-top:.625rem ; */
 }
+
 .other-pages{
-  flex: 6;
+  flex: 4;
   background-color: aqua;
 }
