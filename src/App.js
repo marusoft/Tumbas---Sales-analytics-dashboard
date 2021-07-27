@@ -1,10 +1,11 @@
-
+import Sidebar from "./components/sidebar/Sidebar"
 import './App.css';
 
 const App = () => {
   return (
     <div className="container">
-      Hello Analytics
+     <Sidebar />
+     <div className="other-pages"></div>
     </div>
   );
 }
