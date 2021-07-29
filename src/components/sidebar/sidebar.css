@@ -5,6 +5,7 @@
 }
 .sidebar-head {
   padding: 0.9rem;
+  /* margin-top: 1.1rem; */
   display: flex;
   align-items: center;
 }
@@ -41,7 +42,7 @@
   list-style-type: none;
 }
 .sidebar-list-item {
-  color: #847C94;
+  color:#7586a3;
   margin-bottom: 1.2rem;
   cursor: pointer;
   display: flex;

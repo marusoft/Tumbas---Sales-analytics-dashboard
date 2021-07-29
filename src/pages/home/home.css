@@ -1,0 +1,9 @@
+.home{
+  flex: 4;
+}
+.search-info{
+  display: flex;
+}
+/* .bar{
+  width: 65%;
+} */

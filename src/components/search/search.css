@@ -1,0 +1,27 @@
+.search{
+  flex: 2;
+  padding: 1.2rem .8rem;
+  /* margin-right: 1.25rem; */
+  border-radius: 50px;
+  background: #e8f0fe;
+  margin-top: .6rem;
+}
+.search-wrapper{
+  display: flex;
+  align-items: center;
+  
+}
+.search-wrapper input{
+  border: none;
+  outline: 0;
+  padding: 0.3rem;
+  background: #e8f0fe;
+  font-size: 1rem;
+  color: #7586a3;
+}
+.search-icon{
+  color: #919cb1;;
+  font-weight: 100;
+  margin-left: 1.1rem;
+  font-size: 1.6rem !important;
+}

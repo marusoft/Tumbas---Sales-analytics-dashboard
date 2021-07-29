@@ -1,0 +1,27 @@
+.notification{
+  flex: 1;
+  padding: 1.25rem;
+}
+
+.info{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.notify, .create{
+  font-size: 2.7rem !important;
+  height: 150px;
+  width: 150px;
+  border-left: 1px solid #7586a3;
+  border-bottom: 1px solid #7586a3;
+  border-right: 1px solid #7586a3;
+  border-top: 1px solid #7586a3;
+  display: grid;
+  place-items: center;
+  border-radius: 70%;
+  padding: .6rem;
+}
+/* .create{
+  margin-left: 10rem;
+  text-align: left;
+} */
