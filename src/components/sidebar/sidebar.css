@@ -36,13 +36,13 @@
 .sidebar-title {
   font-size: 1rem;
   margin-bottom: 0.9rem;
-  color: #25234F;
+  color: #25234f;
 }
 .sidebar-list {
   list-style-type: none;
 }
 .sidebar-list-item {
-  color:#7586a3;
+  color: #7586a3;
   margin-bottom: 1.2rem;
   cursor: pointer;
   display: flex;
