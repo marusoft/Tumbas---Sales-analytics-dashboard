@@ -2,6 +2,7 @@ import React from "react";
 import SearchBar from "../../components/search/Search";
 import Notification from "../../components/notification/Notification";
 import Card from "../../components/card/Card";
+import ChartBar from "../../components/chart/Chart"
 
 import "./home.css";
 
@@ -12,6 +13,7 @@ const Home = () => {
         <div className="bar">
           <SearchBar />
           <Card />
+          <ChartBar />
         </div>
         <Notification />
       </div>

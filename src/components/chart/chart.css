@@ -1,0 +1,9 @@
+.chart{
+  margin: 1.25rem;
+  padding: 1.25rem;
+  border-left: 1px solid #87adee;
+  border-bottom: 1px solid #87adee;
+  border-right: 1px solid #87adee;
+  border-top: 1px solid #87adee;
+  border-radius: 3px;
+}
