@@ -3,7 +3,7 @@
 }
 .follower-head{
   /* text-align: center; */
-  padding: .9rem 3.5rem;
+  padding: .9rem 4.5rem;
 }
 .notice-logo {
   width: 80px;
@@ -18,7 +18,7 @@
 }
 span.logo-name{
   color: #25234f;
-  padding-left: 2.7rem;
+  padding-left: 4rem;
 }
 .follower-product{
   display: flex;
@@ -37,18 +37,23 @@ span.logo-name{
   font-size: .8rem;
   display: flex;
   align-items: center;
-  margin-right: .6rem;
+  margin-right: .9rem;
+  color:  #7586a3;
+  font-weight: 600;
 }
 .product-stuff-icon, .follower-stuff-icon{
   margin-right: .5rem;
+  color: #25234f;
 }
 .follower-stuff span {
-  font-size: .8rem;
+  font-size: .9rem;
   display: flex;
   align-items: center;
+  color:  #7586a3;
+  font-weight: 600;
 }
 .vertical-line{
-  border-left: 2px solid  #7586a3;;
+  border-left: 2px solid  #7586a3;
   height: 30px;
   margin-right: .6rem;
 }
