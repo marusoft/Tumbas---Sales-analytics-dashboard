@@ -1,0 +1,54 @@
+.follower{
+  margin-top: 3rem;
+}
+.follower-head{
+  /* text-align: center; */
+  padding: .9rem 3.5rem;
+}
+.notice-logo {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(32, 32, 209);
+  color: #ffffff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
+span.logo-name{
+  color: #25234f;
+  padding-left: 2.7rem;
+}
+.follower-product{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.7rem;
+  padding: .8rem;
+  border-left: 1px solid #87adee;
+  border-bottom: 1px solid #87adee;
+  border-right: 1px solid #87adee;
+  border-top: 1px solid #87adee;
+  border-radius: 3px;
+ 
+}
+.product-stuff span {
+  font-size: .8rem;
+  display: flex;
+  align-items: center;
+  margin-right: .6rem;
+}
+.product-stuff-icon, .follower-stuff-icon{
+  margin-right: .5rem;
+}
+.follower-stuff span {
+  font-size: .8rem;
+  display: flex;
+  align-items: center;
+}
+.vertical-line{
+  border-left: 2px solid  #7586a3;;
+  height: 30px;
+  margin-right: .6rem;
+}
