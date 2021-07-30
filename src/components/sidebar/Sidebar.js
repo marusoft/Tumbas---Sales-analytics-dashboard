@@ -54,6 +54,11 @@ const Sidebar = () => {
           </ul>
         </div>
       </div>
+
+      <div className="sidebar-footer">
+        <span>Tumbas. 2020</span>
+        <p>Platform for solution of all types of business to be more advance</p>
+      </div>
     </div>
   );
 };

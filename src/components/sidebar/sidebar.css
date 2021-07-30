@@ -1,6 +1,6 @@
 .sidebar {
   flex: 1;
-  height: 100vh;
+  height: 70vh;
   background-color: #ffffff;
 }
 .sidebar-head {
@@ -56,4 +56,17 @@
 .sidebar-icons {
   margin-right: 0.7rem;
   font-size: 1.25rem !important;
+}
+.sidebar-footer{
+ padding: 1.8rem;
+}
+.sidebar-footer span{
+  color: #25234f;
+  font-size: .9rem;
+  font-weight: bolder;
+}
+.sidebar-footer p {
+  font-size: .8rem;
+  font-weight: bolder;
+  color: #7586a3;
 }
